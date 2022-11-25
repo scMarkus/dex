@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dex
+  annotations:
+    github.com/project-slug: scMarkus/dex
+spec:
+  type: other
+  lifecycle: unknown
+  owner: scMarkus
